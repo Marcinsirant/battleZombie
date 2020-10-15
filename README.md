@@ -1,6 +1,6 @@
 # battleZombie
 
-I used inheritance in C #. The store is created dynamically. The weapon was added to the list and then to the store. Creating a new weapon is easy because you only add a script to the object and set the photo.
+The game is developed in unity 2D. The store is created dynamically. The weapon was added to the list and then to the store. Creating a new weapon is easy because you only add a script to the object and set the photo.
 
 
 https://youtu.be/HvNtC5-CEuQ Test on the Samsung Galaxy S10+
